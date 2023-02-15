@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+oauth2client
+httplib2
+bcrypt
+google-api-python-client
+pyjwt
+datetime
+regex
